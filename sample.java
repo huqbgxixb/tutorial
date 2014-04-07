@@ -3,5 +3,6 @@ class sample{
 		System.out.println("Hello");
 		System.out.println("World!");
 		System.out.println("commitインテックスの状態を記録する");
+		System.out.println("pull リモートリポジトリの内容を取得売る");
 	}
 }
